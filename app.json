@@ -9,16 +9,16 @@
     "repository": "",
     "env": {
       "BOT_TOKEN": {
-        "description": "6418802023:AAGBpFtOihuv5ffaVF_l7GqkxrrMOAGD0cA",
-        "value": ""
+        "description": "6418802023:7347353498:AAGgNzcVVGcEUoZSYAhghggmKpgX8_XUYvs",
+        "value": "7347353498:AAGgNzcVVGcEUoZSYAhghggmKpgX8_XUYvs"
       },
       "API_ID": {
-        "description": "23480585",
-        "value": "23480585"
+        "description": "22475741",
+        "value": "22475741"
       },
       "API_HASH": {
-        "description": "23af64c0a4ba8c1f0c04e9be07d0ba68",
-        "value": "23af64c0a4ba8c1f0c04e9be07d0ba68"
+        "description": "1a217be71a0225e0a678af286c211f8a",
+        "value": "1a217be71a0225e0a678af286c211f8a"
       },
       "OWNER_ID": {
         "description": "7306229091",
@@ -26,18 +26,18 @@
         "required": true
       },
       "DATABASE_NAME": {
-        "description": "mewadonlinestudys",
-        "value": "drmbot",
+        "description": "Cluster0",
+        "value": "Cluster0",
         "required": false
       },
       "DATABASE_URL": {
         "description": "mongodb+srv://mewadonlinestudy:yYjxKiZGQag8DnWH@cpvod.ywpecvo.mongodb.net/?retryWrites=true&w=majority&appName=cpvod",
-        "value": "mongodb+srv://mewadonlinestudy:yYjxKiZGQag8DnWH@cpvod.ywpecvo.mongodb.net/?retryWrites=true&w=majority&appName=cpvodak",
+        "value": "mongodb+srv://violet834139:a7d0YnHgPZWWgvtr@cluster0.ic5i9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "LOG_CHANNEL": {
-        "description": "-1002163136973",
-        "value": "-1001529584600"
+        "description": "-1002449679796",
+        "value": "-1004529701763"
       }
     },
     "addons": [],
